@@ -1,0 +1,1 @@
+# Implementation-of-genetic-algorithm-for-weight-initialization-in-MLP-network
